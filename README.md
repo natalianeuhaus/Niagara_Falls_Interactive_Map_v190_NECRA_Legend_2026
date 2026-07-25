@@ -2,7 +2,7 @@ Version 1.59 factory-icon zoom update
 
 Clicking a factory/site icon directly on the map now uses the same close-up zoom level and popup positioning as Process “Show on map” and the 1985 “Highlight on map” action.
 
-# Niagara + Erie Hotspots Map & Industrial History — v1.57
+# Niagara + Erie Hotspots Map & Industrial History — v1.57 
 
 ## v1.57 update
 - Process-tab **Show on map** buttons now zoom to level 16, matching the close-up behavior of the 1985 survey **Highlight on map** buttons.
