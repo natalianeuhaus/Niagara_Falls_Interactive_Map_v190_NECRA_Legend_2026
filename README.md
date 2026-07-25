@@ -6,7 +6,7 @@ Clicking a factory/site icon directly on the map now uses the same close-up zoom
 
 ## v1.57 update
 - Process-tab **Show on map** buttons now zoom to level 16, matching the close-up behavior of the 1985 survey **Highlight on map** buttons.
-- The selected facility popup and numbered process emphasis are preserved.
+- The selected facility popup and numbered process emphasis are preserved. 
 - All basemap, layer, marker, legend, and center-map behavior remains unchanged from v1.55.
 
 Version 1.35 marker separation update
